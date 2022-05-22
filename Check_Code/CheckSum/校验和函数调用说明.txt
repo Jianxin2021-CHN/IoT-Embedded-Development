@@ -1,0 +1,7 @@
+1.函数声明如下：
+  unsigned char *getCheckSum(unsigned char *string)，该函数需要一个参数，即需要计算的字符串或字节数组，返回值为字节数组，长度为2，高位在前，低位在后。
+2.调用方法如下：
+  unsigned char *s="21016042F0100014001400160014";
+  unsigned char *a=getCheckSum(s);
+  printf("result is:%X\n",a[0]);
+  printf("result is:%X\n",a[1]);

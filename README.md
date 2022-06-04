@@ -12,8 +12,8 @@ Several Projects and Notes of â€œInternet of Things(with Embedded Development)â€
 
 - **Network_Port_Test**
 
-   There's a program of network port communication implementation based on C#.
+   Common network port communication usually refers to UDP and TCP. UDP is an unreliable transport protocol. TCP is a reliable transport protocol. There's a program of network port communication implementation based on C#.
 
 - **Serial_Port_Test**
 
-   There's a program of serial port communication implementation based on C#.
+   Serial communication is currently commonly used in the industry with RS232 and RS485. RS232 is mainly full-duplex, and 485 is half-duplex. The serial communication protocol includes serial port number, baud rate, parity bit, data bit, stop bit, etc. There's a program of serial port communication implementation based on C#.

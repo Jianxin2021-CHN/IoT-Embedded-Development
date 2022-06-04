@@ -1,0 +1,14 @@
+E:\workshops\IOT_LAB11\IOT_LAB11\bin\Debug\netcoreapp3.1\IOT_LAB11.exe
+E:\workshops\IOT_LAB11\IOT_LAB11\bin\Debug\netcoreapp3.1\IOT_LAB11.deps.json
+E:\workshops\IOT_LAB11\IOT_LAB11\bin\Debug\netcoreapp3.1\IOT_LAB11.runtimeconfig.json
+E:\workshops\IOT_LAB11\IOT_LAB11\bin\Debug\netcoreapp3.1\IOT_LAB11.runtimeconfig.dev.json
+E:\workshops\IOT_LAB11\IOT_LAB11\bin\Debug\netcoreapp3.1\IOT_LAB11.dll
+E:\workshops\IOT_LAB11\IOT_LAB11\bin\Debug\netcoreapp3.1\IOT_LAB11.pdb
+E:\workshops\IOT_LAB11\IOT_LAB11\obj\Debug\netcoreapp3.1\IOT_LAB11.csproj.AssemblyReference.cache
+E:\workshops\IOT_LAB11\IOT_LAB11\obj\Debug\netcoreapp3.1\IOT_LAB11.GeneratedMSBuildEditorConfig.editorconfig
+E:\workshops\IOT_LAB11\IOT_LAB11\obj\Debug\netcoreapp3.1\IOT_LAB11.AssemblyInfoInputs.cache
+E:\workshops\IOT_LAB11\IOT_LAB11\obj\Debug\netcoreapp3.1\IOT_LAB11.AssemblyInfo.cs
+E:\workshops\IOT_LAB11\IOT_LAB11\obj\Debug\netcoreapp3.1\IOT_LAB11.csproj.CoreCompileInputs.cache
+E:\workshops\IOT_LAB11\IOT_LAB11\obj\Debug\netcoreapp3.1\IOT_LAB11.dll
+E:\workshops\IOT_LAB11\IOT_LAB11\obj\Debug\netcoreapp3.1\IOT_LAB11.pdb
+E:\workshops\IOT_LAB11\IOT_LAB11\obj\Debug\netcoreapp3.1\IOT_LAB11.genruntimeconfig.cache

@@ -33,7 +33,7 @@ EN<crlf>
 - 每一行以回车+换行作为结束符。
 
 <div align=center>
-<img width="600" src="../Network_Port_Test/img/返回数据格式样例.PNG"/>
+<img width="600" src="../Network_Port_Test/img/返回数据格式样例.png"/>
 </div>
 
 ## 二、程序说明

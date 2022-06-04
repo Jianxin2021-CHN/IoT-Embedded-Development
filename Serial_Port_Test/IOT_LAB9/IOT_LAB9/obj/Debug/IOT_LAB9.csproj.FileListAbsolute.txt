@@ -1,0 +1,7 @@
+E:\Project\IOT_LAB9\IOT_LAB9\bin\Debug\IOT_LAB9.exe.config
+E:\Project\IOT_LAB9\IOT_LAB9\bin\Debug\IOT_LAB9.exe
+E:\Project\IOT_LAB9\IOT_LAB9\bin\Debug\IOT_LAB9.pdb
+E:\Project\IOT_LAB9\IOT_LAB9\obj\Debug\IOT_LAB9.csproj.AssemblyReference.cache
+E:\Project\IOT_LAB9\IOT_LAB9\obj\Debug\IOT_LAB9.csproj.CoreCompileInputs.cache
+E:\Project\IOT_LAB9\IOT_LAB9\obj\Debug\IOT_LAB9.exe
+E:\Project\IOT_LAB9\IOT_LAB9\obj\Debug\IOT_LAB9.pdb
